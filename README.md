@@ -1,6 +1,6 @@
-# XRP Ledger Countdown
+# XDV Ledger Countdown
 
-Reports upcoming XRP Ledger events on Slack
+Reports upcoming XDV Ledger events on Slack
 
 ## Usage
 
